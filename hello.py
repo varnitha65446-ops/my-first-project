@@ -2,4 +2,4 @@ print("Hello,world!")
 print("Hello,Python!")
 print("Hello,AI!")
 print("A")
-
+print("B")
