@@ -7,3 +7,4 @@ def diff(a,b):
 print(diff(9,7))
 a,b=10,5
 print("Multiplication:", a*b)
+print("Division:", a/b)
